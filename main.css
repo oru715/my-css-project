@@ -1,0 +1,55 @@
+header{
+    text-align: center;
+    background-color: orangered;
+    font-style: italic;
+}
+
+header h2{
+    color: white;
+    font-size: xx-small;
+}
+main{
+    background-color: rgb(135, 223, 235);
+}
+article{
+    border-style: solid;
+    margin-top: 80px;
+    width: 50%;
+    border-width: 1px;
+    box-shadow: 1px;
+    margin: 0 auto;
+    padding: 2px;
+    min-width: 600px;
+font-size: initial;
+    
+    
+}
+footer{
+    text-align: center;
+}
+
+    footer p {
+        margin: 5px;
+      }
+    
+    footer h2 {
+        margin-bottom: -2px; 
+      }
+      form p {
+        display: inline;
+        margin-right: 7;
+      }
+    
+    form input{
+        box-shadow: 3px 3px 0 0 #e4572e;
+      }
+    article h2 {
+        margin: 0;
+      }
+    
+    article p {
+        margin: 0;
+      }
+
+
+
